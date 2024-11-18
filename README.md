@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/p0P4tcI.png)
 
 Project Reboot is a tough battled and widely used game server for Fortnite.  Below are the key points about this project:
-Join our discord at https://discord.gg/reboot
+Join our discord at https://discord.gg/rebootmp
 
 ## Features
 
@@ -15,6 +15,7 @@ Join our discord at https://discord.gg/reboot
 1. Clone this repository: `git clone https://github.com/Milxnor/Project-Reboot-3.0.git`
 2. Build the project using your preferred build tools. (Use Visual Studio 2022)
 3. Run the server using the Reboot Launcher.
+4. host it gangy 
 ## Contributing
 
 Contributions are welcome! Feel free to create pull requests or report issues on the GitHub repository.
@@ -25,4 +26,10 @@ This project is licensed under the BSD-3-Clause license.
 
 ---
 
+
 **Note**: Project Reboot is a work in progress, and further updates and enhancements are planned. Explore, experiment, and contribute to make it even better! 🚀
+
+
+**Note** this isn't for real reboot just trying my best to mod it for fun
+real reboot at 
+https://github.com/Milxnor/Project-Reboot-3.0 thanks !
